@@ -28,7 +28,8 @@
   
   
 </div>
-##⚡ Fun Facts ##
+
+## ⚡ Fun Facts
 
 - I love solving coding challenges and have a passion for open-source software.
 - I enjoy reading about the latest advancements in AI and blockchain technologies.
