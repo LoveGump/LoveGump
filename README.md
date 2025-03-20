@@ -21,7 +21,9 @@
 - 🌐 You can also find me on:
   - QQ ：2382175384
   - eamil : 2382175384@qq.com
-![背景+文本](https://raw.githubusercontent.com/你的仓库路径/合成后的图片.svg)
+
+    
+![背景+文本](https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg)
 
 ## 📊 my submit
 <div align="center">
