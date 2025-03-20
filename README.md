@@ -1,11 +1,4 @@
-<!-- 动态粒子背景（需托管SVG文件） -->
-![Particle Header](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)
-[![Particle Header](https://LoveGump.github.io/LoveGump/blob/main/particle-banner.svg)](https://github.com/LoveGump)
-<!-- 3D卡片式自我介绍 -->
 <div align="center">
-  <a href="https://threejs.org/">
-    <img src="https://modelviewer.dev/shared-assets/icons/threejs.svg" width="100">
-  </a>
   <h1> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=435&lines=echo+%22Hello+World%22;南开大学CS'23;全栈开发者;AI+Enthusiast" alt="动态打字效果" />
   </h1>
