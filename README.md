@@ -1,20 +1,21 @@
 # Hi there, I'm [Your Name] 👋
 
-![Your Cool Banner](https://your-banner-url.com)
+![NKU Banner](https://your-banner-url.com)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **exciting projects**
-- 🌱 I’m currently learning **new technologies**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **coding, tech, or anything fun**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 🎓 I’m a **2023 Computer Science Student** at **Nankai University**
+- 🔭 I’m currently exploring **AI, Web Development, and Open Source**
+- 🌱 I’m learning **Machine Learning, Full Stack Development, and Cloud Computing**
+- 👯 I’m looking to collaborate on **exciting open-source projects**
+- 💬 Ask me about **coding, algorithms, or university life**
+- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
 - 😄 Pronouns: **He/Him | She/Her | They/Them**
-- ⚡ Fun fact: **I love coffee & coding!**
+- ⚡ Fun fact: **I enjoy hackathons and competitive programming!**
 
 ## 🌟 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -32,4 +33,4 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle) [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle) [![CSDN](https://img.shields.io/badge/-CSDN-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/your-csdn)
