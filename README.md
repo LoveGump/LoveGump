@@ -1,10 +1,18 @@
-<div align="center" style="background-image: url('https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg'); background-size: cover; background-position: center;">
+<style>
+  .background-block {
+    background-image: url('https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg');
+    background-size: cover;
+    background-position: center;
+    text-align: center; /* 替代 align="center" */
+  }
+</style>
+
+<div class="background-block">
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi👋  I'm LoveGump;Welcome to my GitHub profile!🚀;" alt="动态打字效果" />
-    
+    怎么给这个块增加一个背景
   </h1>
 </div>
-
  
 
 
