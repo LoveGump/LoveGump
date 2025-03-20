@@ -6,10 +6,10 @@
 </div>
 
 
-![Time](https://img.shields.io/date/1697029200?color=blue&label=Current%20Time&style=for-the-badge)
 
 
 
+<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
 
 
