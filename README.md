@@ -1,4 +1,4 @@
-![SVG Image](https://raw.githubusercontent.com/LoveGump/LoveGump/main/particle-banner.svg)
+![SVG Image](https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg)
 
 <div align="center" background = “”>
   <h1> 
