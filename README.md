@@ -26,8 +26,9 @@
   | ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue) |
   |---|---|
   
+  
 </div>
-## ⚡ Fun Facts
+##⚡ Fun Facts ##
 
 - I love solving coding challenges and have a passion for open-source software.
 - I enjoy reading about the latest advancements in AI and blockchain technologies.
