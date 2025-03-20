@@ -8,7 +8,7 @@
 ## 🕒 Live Clock
 
 <p align="center">
-    <img src="https://LoveGump.github.io/live-clock/" width="300" height="100">
+    <img src="https://lovegump.github.io/clock/" width="300" height="100">
 </p>
 
 
