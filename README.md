@@ -4,7 +4,8 @@
     
   </h1>
 </div>
-![SVG Image](https://raw.githubusercontent.com/LoveGump/LoveGump/main/particle-banner.svg)
+<img src="https://raw.githubusercontent.com/LoveGump/LoveGump/main/particle-banner.svg" width="100%" />
+
 
 
 
