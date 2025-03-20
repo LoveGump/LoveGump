@@ -6,7 +6,7 @@
 </div>
 
 
-![Dynamic Clock](https://time.skk.moe/svg?color=red&size=40)
+![Time](https://img.shields.io/date/1697029200?color=blue&label=Current%20Time&style=for-the-badge)
 
 
 
