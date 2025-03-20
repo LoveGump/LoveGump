@@ -1,10 +1,12 @@
+![SVG Image](https://raw.githubusercontent.com/LoveGump/LoveGump/main/particle-banner.svg)
+
 <div align="center" background = “”>
   <h1> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi👋  I'm LoveGump;Welcome to my GitHub profile!🚀;" alt="动态打字效果" />
     
   </h1>
 </div>
-<img src="https://raw.githubusercontent.com/LoveGump/LoveGump/main/particle-banner.svg" width="100%" />
+
 
 
 
