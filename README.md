@@ -1,5 +1,5 @@
 <!-- 动态粒子背景（需托管SVG文件） -->
-[![Particle Header](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)](https://example.com)
+![Particle Header](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)
 
 <!-- 3D卡片式自我介绍 -->
 <div align="center">
