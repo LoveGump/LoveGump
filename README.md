@@ -1,36 +1,48 @@
-# Hi there, I'm [Your Name] 👋
+<!-- 动态粒子背景（需托管SVG文件） -->
+[![Particle Header](https://your-domain.com/particle-banner.svg)](https://example.com)
 
-![NKU Banner](https://your-banner-url.com)
+<!-- 3D卡片式自我介绍 -->
+<div align="center">
+  <a href="https://threejs.org/">
+    <img src="https://modelviewer.dev/shared-assets/icons/threejs.svg" width="100">
+  </a>
+  <h1> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=435&lines=echo+%22Hello+World%22;南开大学CS'23;全栈开发者;AI+Enthusiast" alt="动态打字效果" />
+  </h1>
+  
+  <!-- 3D校徽旋转 -->
+  <img src="https://cdn.jsdelivr.net/gh/你的ID/你的仓库/nankai-3d.glb" alt="nankai-3d" style="height: 120px; border-radius: 50%;" loading="lazy"/>
+</div>
 
-## 🚀 About Me
+<!-- 动态技能雷达图 -->
+[![Skill Radar](https://skillicons.dev/icons?i=py,tensorflow,react,rust,aws,linux&theme=dark&perline=6)](https://skillicons.dev)
 
-- 🎓 I’m a **2023 Computer Science Student** at **Nankai University**
-- 🔭 I’m currently exploring **AI, Web Development, and Open Source**
-- 🌱 I’m learning **Machine Learning, Full Stack Development, and Cloud Computing**
-- 👯 I’m looking to collaborate on **exciting open-source projects**
-- 💬 Ask me about **coding, algorithms, or university life**
-- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
-- 😄 Pronouns: **He/Him | She/Her | They/Them**
-- ⚡ Fun fact: **I enjoy hackathons and competitive programming!**
+---
 
-## 🌟 Tech Stack
+## 🚀 实时数据仪表盘
+<!-- 可交互数据面板 -->
+| <a href="https://github.com/你的ID"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=你的ID&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="400"/></a> | <a href="https://leetcode.com/你的ID/"><img src="https://leetcard.jacoblin.cool/你的ID?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="300"/></a> |
+| ------------- | ------------- |
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## 🔥 热点项目
+<!-- 带动态预览的项目卡片 -->
+[![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=你的ID&repo=项目仓库名&theme=vision-friendly-dark)](https://github.com/你的ID/项目仓库名)
+[![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=你的ID&repo=项目仓库名&theme=vision-friendly-dark)](https://github.com/你的ID/项目仓库名)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
-## 🎮 Fun Zone
-
-![Random Meme](https://api.memegen.link/images/doge/code_all_the_things!.png)
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle) [![CSDN](https://img.shields.io/badge/-CSDN-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/your-csdn)
+## 🌌 技术星系图
+```mermaid
+%% 需要安装Mermaid支持（GitHub已原生支持）
+graph TD
+    A[编程语言] --> B(Python)
+    A --> C(Rust)
+    A --> D(JavaScript)
+    B --> E[AI开发]
+    C --> F[系统编程]
+    D --> G[Web全栈]
+    E --> H(TensorFlow)
+    F --> I(操作系统)
+    G --> J(React)
