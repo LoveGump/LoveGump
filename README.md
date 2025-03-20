@@ -6,8 +6,7 @@
 </div>
 
 
- <img src="https://www.animatedimages.org/data/media/710/animated-clock-image-0018.gif" alt="Clock" width="150"/>
-
+![Dynamic Clock](https://time.skk.moe/svg?color=red&size=40)
 
 
 
