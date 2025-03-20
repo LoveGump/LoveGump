@@ -1,6 +1,6 @@
 <!-- 动态粒子背景（需托管SVG文件） -->
 ![Particle Header](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)
-
+[![Particle Header](https://LoveGump.github.io/LoveGump/blob/main/particle-banner.svg)](https://github.com/LoveGump)
 <!-- 3D卡片式自我介绍 -->
 <div align="center">
   <a href="https://threejs.org/">
