@@ -1,12 +1,10 @@
-<div align="center">
-  <svg width="600" height="300">
-    <!-- 使用 raw.githubusercontent.com 链接确保能正常加载 SVG 文件 -->
-    <image href="https://raw.githubusercontent.com/LoveGump/LoveGump/main/starry_sky.svg" width="600" height="300" />
-    <text x="300" y="150" text-anchor="middle" fill="#43D9AD" font-family="Fira Code" font-size="30">
-      Hi👋  I'm LoveGump;Welcome to my GitHub profile!🚀
-    </text>
-  </svg>
+<div align="center" style="background-image: url('https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg'); background-size: cover; background-position: center;">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi👋  I'm LoveGump;Welcome to my GitHub profile!🚀;" alt="动态打字效果" />
+   
+  </h1>
 </div>
+
 
  
 
