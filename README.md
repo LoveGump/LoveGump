@@ -15,15 +15,15 @@
 - 🧑‍🔬 
 - 🔭 
 - 🌐 You can also find me on:
-  - eamil : 2312236@mail.nankai.edu.cn
+  - QQ ：2382175384
   - eamil : 2382175384@qq.com
-## 📊 开发者画像
+## 📊 my submit
 <div align="center">
   
   ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=LoveGump&theme=react-dark&hide_border=true&area=true)
   
   <!-- 三维技能卡片 -->
-  | ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact&theme=vue) |
+  | ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue) |
   |---|---|
   
 </div>
