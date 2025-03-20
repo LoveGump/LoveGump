@@ -9,8 +9,9 @@
 ## 🧑‍💻 About Me
 
 - 💻 I'm a **student** at **NanKai University**.
-
-  <img src="https://github.com/LoveGump/LoveGump/blob/main/%E6%A0%A1%E5%BE%BD1.png" alt="nankai-3d" style="height: 120px; border-radius: 50%;" loading="lazy"/>
+- 🧑‍🔬 Currently exploring **python**.
+- 🌱 Always learning and improving my skills .
+- 🔭 I'm studying.
 - 🧑‍🔬 
 - 🔭 
 - 🌐 You can also find me on:
