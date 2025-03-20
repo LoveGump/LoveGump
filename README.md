@@ -4,6 +4,8 @@
     
   </h1>
 </div>
+![SVG Image](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)
+
 
 
 ## 🧑‍💻 About Me
