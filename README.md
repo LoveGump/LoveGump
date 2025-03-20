@@ -4,7 +4,7 @@
   </h1>
 
   <!-- 3D校徽旋转 -->
-  <img src="https://cdn.jsdelivr.net/gh/你的ID/你的仓库/nankai-3d.glb" alt="nankai-3d" style="height: 120px; border-radius: 50%;" loading="lazy"/>
+  <img src="https://github.com/LoveGump/LoveGump/blob/main/%E6%A0%A1%E5%BE%BD1.png" alt="nankai-3d" style="height: 120px; border-radius: 50%;" loading="lazy"/>
 </div>
 
 <!-- 动态技能雷达图 -->
