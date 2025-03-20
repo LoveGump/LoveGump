@@ -2,9 +2,9 @@
   <h1> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=435&lines=你好，这里是LoveGump;echo+%22Hello+World%22;南开大学CS'23;" alt="动态打字效果" />
   </h1>
-# 👋 Hi, I'm [你的名字]！
+# 👋 Hi, I'm LoveGump！
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. 🚀 I love exploring new technologies and creating cool projects that push the boundaries of innovation. Below you'll find some of my recent work, contributions, and a little bit about me!
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. 🚀 I love exploring the world. Below you'll find some of my recent work, contributions, and a little bit about me!
 
 ---
   <!-- 3D校徽旋转 -->
@@ -14,12 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. �
 
 ## 🧑‍💻 About Me
 
-- 💻 I'm a **[student]** at **[NanKai University]**.
-- 🧑‍🔬 Currently exploring **[减论App]**.
-- 🔭 I'm working on **[Recommend]**.
+- 💻 I'm a **student** at **NanKai University**.
+- 🧑‍🔬 
+- 🔭 
 - 🌐 You can also find me on:
-  
-  - ==WeChat==
   - eamil : 2312236@mail.nankai.edu.cn
   - eamil : 2382175384@qq.com
 
