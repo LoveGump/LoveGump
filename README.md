@@ -1,5 +1,5 @@
 <!-- 动态粒子背景（需托管SVG文件） -->
-[![Particle Header](https://your-domain.com/particle-banner.svg)](https://example.com)
+[![Particle Header](https://github.com/LoveGump/LoveGump/blob/main/particle-banner.svg)](https://example.com)
 
 <!-- 3D卡片式自我介绍 -->
 <div align="center">
@@ -9,7 +9,7 @@
   <h1> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=435&lines=echo+%22Hello+World%22;南开大学CS'23;全栈开发者;AI+Enthusiast" alt="动态打字效果" />
   </h1>
-  
+
   <!-- 3D校徽旋转 -->
   <img src="https://cdn.jsdelivr.net/gh/你的ID/你的仓库/nankai-3d.glb" alt="nankai-3d" style="height: 120px; border-radius: 50%;" loading="lazy"/>
 </div>
