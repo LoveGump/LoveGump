@@ -18,12 +18,11 @@
 - 💻 I'm a **student** at **NanKai University**.
 - 🧑‍🔬 Currently exploring **python**.
 - 🌱 Always learning and improving my skills .
-- 🔭 I'm studying.
-- 🧑‍🔬 
-- 🔭 
 - 🌐 You can also find me on:
   - QQ ：2382175384
   - eamil : 2382175384@qq.com
+![背景+文本](https://raw.githubusercontent.com/你的仓库路径/合成后的图片.svg)
+
 ## 📊 my submit
 <div align="center">
   
