@@ -5,7 +5,7 @@
 
 
 </div>  
-![bear](https://github.com/user-attachments/assets/c257b875-6478-40a4-a79d-28c12a5637bb)
+
 <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
 
