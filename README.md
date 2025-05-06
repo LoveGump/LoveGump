@@ -11,18 +11,16 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 I'm a **student** at **NanKai University**.
-
-- 🧑‍🔬 Currently exploring **python**.
-
-- 🌱 Always learning and improving my skills .
+- 💻 I'm a **student** at **Nankai University**.
+- 🧑‍🔬 Currently exploring **Python**, with a passion for open-source projects.
+- 🌱 Always learning and improving my skills.
+- 🏅 Awards & Honors:
+  - 🥇 **Nankai University Gongneng Scholarship (2023-2024南开大学公能奖学金 ¥5000)**
+  - 🏆 **Nankai University “Sanhao” Student Award (2023-2024南开大学三好学生)**
 
 - 🌐 You can also find me on:
-
   - QQ ：2382175384
-
-  - eamil : 2382175384@qq.com
-
+  - Email : 2382175384@qq.com
     
 
 ![背景+文本](https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg)
