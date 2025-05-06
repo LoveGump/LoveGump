@@ -15,8 +15,8 @@
 - 🧑‍🔬 Currently exploring **Python**, with a passion for open-source projects.
 - 🌱 Always learning and improving my skills.
 - 🏅 Awards & Honors:
-  - 🥇 **Nankai University Gongneng Scholarship (2023-2024南开大学公能奖学金 ¥5000)**
-  - 🏆 **Nankai University “Sanhao” Student Award (2023-2024南开大学三好学生)**
+  - 🥇 Nankai University Gongneng Scholarship (公能奖学金 ¥5000)
+  - 🏆 Nankai University “Sanhao” Student Award (南开大学三好学生)
 
 - 🌐 You can also find me on:
   - QQ ：2382175384
