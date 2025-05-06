@@ -2,15 +2,6 @@
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi👋  I'm LoveGump;Welcome to my GitHub profile!🚀" alt="aaaa" />
 
-## 🕒 Live Clock
-
-<p align="center">
-    <iframe src="https://lovegump.github.io/clock/" width="300" height="100" frameborder="0"></iframe>
-</p>
-
-
-
-
 
 <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
