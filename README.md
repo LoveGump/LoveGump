@@ -11,7 +11,7 @@
 
 
 ## 🧑‍💻 About Me
-
+- The photo is not of me ，he is my friend!
 - 💻 I'm a **student** at **Nankai University**.
 - 🧑‍🔬 Currently exploring **Python**, with a passion for open-source projects.
 - 🌱 Always learning and improving my skills.
