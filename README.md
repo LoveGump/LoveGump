@@ -21,23 +21,58 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <!-- 贡献图 -->
-  ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=LoveGump&theme=react-dark&hide_border=true&area=true)
-  
-  <br><br>
+## 📊 My Skills
 
-  <!-- 统计图 -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue" alt="Profile Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue" alt="Language Stats" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+<!-- 技能条 / GitHub Stats 风格 -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue&hide=contribs" alt="Profile Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue&hide=other" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 自定义技能图示例 -->
+<table>
+  <tr>
+    <td>Python 🐍</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python Skill"/>
+    </td>
+  </tr>
+  <tr>
+    <td>C++ 💻</td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-80%25-blue" alt="C++ Skill"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Git & GitHub 🔧</td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-85%25-orange" alt="Git Skill"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Linux 🐧</td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-75%25-yellow" alt="Linux Skill"/>
+    </td>
+  </tr>
+  <tr>
+    <td>JavaScript ⚡</td>
+    <td>
+      <img src="https://img.shields.io/badge/JS-65%25-red" alt="JS Skill"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## ⚡ Fun Facts
