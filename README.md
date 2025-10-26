@@ -22,10 +22,22 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+  <!-- 贡献图 -->
   ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=LoveGump&theme=react-dark&hide_border=true&area=true)
+  
+  <br><br>
 
-  | ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue) |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  <!-- 统计图 -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LoveGump&show_icons=true&theme=vue" alt="Profile Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveGump&layout=compact&theme=vue" alt="Language Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## ⚡ Fun Facts
