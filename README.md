@@ -10,6 +10,7 @@
 - 🧑‍🔬 Currently exploring **Python** and passionate about open-source projects.
 - 🌱 Always learning and improving my skills.
 - 🏅 Awards & Honors:
+  - 🏆 Third Prize in the Pilot Cup - Intelligent Computing Innovation Design Competition of the 2025 National Undergraduate Computer System Competence Contest
   - 🥇 Nankai University Gongneng Scholarship (公能奖学金 ¥5000)
   - 🏆 Nankai University “Sanhao” Student Award (南开大学三好学生)
 
