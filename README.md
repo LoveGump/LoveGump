@@ -5,9 +5,9 @@
 <img alt="GIF" src="./code.gif" style="float:right; width:300px; height:auto; margin:0 0 1rem 1rem;" />
 
 
-
-## 🧑‍💻 About Me
 <img src="./NKU.png" alt="Nankai University Badge" style="float:left; width:120px; height:auto; margin:0 1rem 1rem 0;" />
+## 🧑‍💻 About Me
+
 - 💻 I'm a **student** at **Nankai University**.
 - 🧑‍🔬 Currently exploring **C++**, **Rust**, and **Python**, and passionate about open-source projects.
 - 🌱 Always learning and improving my skills.
