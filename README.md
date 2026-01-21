@@ -2,25 +2,26 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B+I%27m+LoveGump;Welcome+to+my+GitHub+profile!%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+<p style="text-align:right; margin:0;">
+  <img alt="GIF" src="./code.gif" width="430" height="100%" />
+</p>
 
 ## 🧑‍💻 About Me
-- The photo is not of me; he is my friend!
 - 💻 I'm a **student** at **Nankai University**.
-- 🧑‍🔬 Currently exploring **Python** and passionate about open-source projects.
+- 🧑‍🔬 Currently exploring **C++**, **Rust**, and **Python**, and passionate about open-source projects.
 - 🌱 Always learning and improving my skills.
 - 🏅 Awards & Honors:
-  - 🏆 Third Prize in the Pilot Cup - Intelligent Computing Innovation Design Competition of the 2025 National Undergraduate Computer System Competence Contest
-  - 🥇 Nankai University Gongneng Scholarship (公能奖学金 ¥5000)
-  - 🏆 Nankai University “Sanhao” Student Award (南开大学三好学生)
+- 🏅 Awards & Honors:
+  - 🏆 Third Prize — 2025 全国大学生计算机系统能力竞赛（智能计算创新设计赛，先导杯）
+  - 🥇 Nankai University Gongneng Scholarship（公能奖学金，¥5,000）
+  - 🏆 Nankai University “Sanhao” Student Award（南开大学“三好学生”）
 
 - 🌐 Connect with me:
   - QQ: 2382175384
-  - Email: 2382175384@qq.com
+  - Email: jiaquan0122@gmail.com
 
 ![Starry Sky](https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg)
 
-## 📊 GitHub Activity
 
 ## 📊 My Skills
 
@@ -37,43 +38,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- 自定义技能图示例 -->
-<table>
-  <tr>
-    <td>Python 🐍</td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python Skill"/>
-    </td>
-  </tr>
-  <tr>
-    <td>C++ 💻</td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-80%25-blue" alt="C++ Skill"/>
-    </td>
-  </tr>
-  <tr>
-    <td>Git & GitHub 🔧</td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-85%25-orange" alt="Git Skill"/>
-    </td>
-  </tr>
-  <tr>
-    <td>Linux 🐧</td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-75%25-yellow" alt="Linux Skill"/>
-    </td>
-  </tr>
-  <tr>
-    <td>JavaScript ⚡</td>
-    <td>
-      <img src="https://img.shields.io/badge/JS-65%25-red" alt="JS Skill"/>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ## ⚡ Fun Facts
