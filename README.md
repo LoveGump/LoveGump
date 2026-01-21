@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B+I%27m+LoveGump;Welcome+to+my+GitHub+profile!%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<p style="text-align:right; margin:0;">
-  <img alt="GIF" src="./code.gif" width="430" height="100%" />
-</p>
+<img alt="GIF" src="./code.gif" style="float:right; width:300px; height:auto; margin:0 0 1rem 1rem;" />
+
+
 
 ## 🧑‍💻 About Me
+<img src="./NKU.png" alt="Nankai University Badge" style="float:left; width:120px; height:auto; margin:0 1rem 1rem 0;" />
 - 💻 I'm a **student** at **Nankai University**.
 - 🧑‍🔬 Currently exploring **C++**, **Rust**, and **Python**, and passionate about open-source projects.
 - 🌱 Always learning and improving my skills.
@@ -20,7 +21,7 @@
   - QQ: 2382175384
   - Email: jiaquan0122@gmail.com
 
-![Starry Sky](https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg)
+<img src="https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg" alt="Starry Sky" style="width:300px; height:auto; display:block; margin:0.5rem auto;" />
 
 
 ## 📊 My Skills
