@@ -22,7 +22,7 @@
   - QQ: 2382175384
   - Email: jiaquan0122@gmail.com
 
-<img src="https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg" alt="Starry Sky" style="width:300px; height:auto; display:block; margin:0.5rem auto;" />
+<img src="https://github.com/LoveGump/LoveGump/blob/main/starry_sky.svg" align="right"  alt="Starry Sky" style="width:300px; height:auto; display:block; margin:0.5rem auto;" />
 
 
 ## 📊 My Skills
