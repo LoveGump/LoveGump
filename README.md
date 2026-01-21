@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=43D9AD&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B+I%27m+LoveGump;Welcome+to+my+GitHub+profile!%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<img alt="GIF" src="./code.gif" style="float:right; width:300px; height:auto; margin:0 0 1rem 1rem;" />
+<img alt="GIF" src="./code.gif" align="right" width="300" hspace="12" vspace="8" />
 
 
-<img src="./NKU.png" alt="Nankai University Badge" style="float:left; width:120px; height:auto; margin:0 1rem 1rem 0;" />
+<img src="./NKU.png" align="right" alt="Nankai University Badge" style="float:left; width:120px; height:auto; margin:0 1rem 1rem 0;" />
+
 ## 🧑‍💻 About Me
 
 - 💻 I'm a **student** at **Nankai University**.
